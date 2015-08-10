@@ -70,6 +70,6 @@ Select * from dummies;
 (1000 rows)
 ```
 #####Note that:
-You can groe your table as much as you want, to meet your needs. Need to change the generate_series(1,#) function in your script.
+You can grow your table as much as you want, to meet your needs. Need to change the generate_series(1,#) function in your script.
 
 
